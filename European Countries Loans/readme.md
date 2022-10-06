@@ -1,4 +1,4 @@
-:floppy_disk: Dataset is taken from oecd-ilibrary. Thereafter it is organized, manipulated and filtered for European countries and their loans from banks.
+:floppy_disk: This dataset is taken from oecd-ilibrary. Thereafter it is organized, manipulated and filtered for European countries and their loans from banks.
 
 :bookmark: The report is bookmarked due to detailed information such as map. Bookmark method made the report more readable instead of showing everything at once.
 
