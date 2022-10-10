@@ -16,3 +16,6 @@
 
 2) GRAPH VIEW
 ![image](https://user-images.githubusercontent.com/71988270/194590476-984a44d2-8b86-4c2e-a1d2-83794bab5346.png)
+
+3) COUNTRIES (Credit Score, SociEco Class, Age)
+![image](https://user-images.githubusercontent.com/71988270/194861271-58c2c601-fb00-4be7-a8e9-b34c142ef28b.png)
